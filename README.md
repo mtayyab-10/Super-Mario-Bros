@@ -25,7 +25,9 @@ The project highlights core principles of game development through a clean and w
 ## Project Structure
 
 Super-Mario-Bros/
+
 ├── Screenshots/
+
 └── Source.asm
 
 ---
